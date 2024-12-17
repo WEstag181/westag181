@@ -2,7 +2,7 @@
 
 ## About Me
 
-Team Wetzel s/a
+I'm part of the wetzel engineering team
 
 ## Technologies and Tools
 
